@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Нефтекамский филиал высшего юридического колледжа</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles.css" rel="stylesheet" type="text/css" />
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+<script>
+  $(function() {
+  	$(".btn-slide").click(function() {
+    $("#panel").slideToggle("slow");
+    $(this).toggleClass("active"); return false;
+  	});
+  });
+  $(function() {
+  	$(".btn-slide2").click(function() {
+    $("#panel2").slideToggle("slow");
+    $(this).toggleClass("active"); return false;
+  	});
+  });
+  $(function() {
+  	$(".btn-slide4").click(function() {
+    $("#panel4").slideToggle("slow");
+    $(this).toggleClass("active"); return false;
+  	});
+  });  
+</script>
+  
+</head>
+<body>
+<style type="text/css">
+            #slider1next {
+                left: 910px;
+}			
+    table {
+	    width:928px;
+        border-collapse: collapse;
+    }
+    table th,
+    table td {
+        padding: 5px 5px;
+        text-align: left;
+		font-size:14px;
+		text-align: justify;
+
+    }
+            }</style>		
+<div id="main">
+
+<!-- header begins -->
+
+
+<div id="header">
+
+<div id="logo">
+
+<div id="logotip">
+
+<div class="slider">
+			
+<input type="radio" id="btn-1" name="toggle" checked>
+<input type="radio" id="btn-2" name="toggle">
+<input type="radio" id="btn-3" name="toggle">
+<input type="radio" id="btn-4" name="toggle">
+<input type="radio" id="btn-5" name="toggle">
+  <div class="slider-controls">
+    <label for="btn-1"></label>
+ 	<label for="btn-2"></label>
+    <label for="btn-3"></label>
+    <label for="btn-4"></label>
+    <label for="btn-5"></label>
+ </div>
+ <div class="slides">
+  <div class="slide">
+    <div class="slider-buttons clearfix">
+	  <label class="slider-button-left" for="btn-5"></label>
+	  <label class="slider-button-right" for="btn-2"></label>
+	</div>
+  </div>
+  <div class="slide">	
+    <div class="slider-buttons clearfix">
+      <label class="slider-button-left" for="btn-1"></label>
+	  <label class="slider-button-right" for="btn-3"></label>
+   </div>
+  </div>
+  <div class="slide">	
+    <div class="slider-buttons clearfix">
+	  <label class="slider-button-left" for="btn-2"></label>
+	  <label class="slider-button-right" for="btn-4"></label>
+	</div>
+  </div>
+  <div class="slide">
+    <div class="slider-buttons clearfix">
+      <label class="slider-button-left" for="btn-3"></label>
+	  <label class="slider-button-right" for="btn-5"></label> 			    
+	</div>
+  </div>
+  <div class="slide">	
+    <div class="slider-buttons clearfix">
+      <label class="slider-button-left" for="btn-4"></label>
+	  <label class="slider-button-right" for="btn-1"></label>
+    </div>
+  </div>
+</div
+					</div>	
+					</div>
+				</div>
+
+	    </div>
+        
+        
+   
+        
+        
+        
+        
+<div id="buttons">
+
+
+
+
+
+
+
+        <ul id="buttons">
+          <li class="first"><a href="index.html" title="">Главная</a></li>
+          <li><a href="specialnosti.html" title="">Специальности</a></li>
+          <li><a href="abiturient.html" title="">Абитуриентам</a></li>
+          <li><a href="student.html" title="">Студентам</a></li>
+		  <li><a href="kontakti.html" title="">Контакты</a></li>
+        </ul>
+  
+    </div>
+</div>
+<!-- header ends -->
+    <!-- content_specialnosti begins -->
+    <div id="cont_top_specialnosti"></div>
+    <div id="content_specialnosti">
+	    <div id="center">
+          <h3>ФИЛИАЛЫ</h3><br/>
+		   <div class="text">
+            <table cellspacing="15" cellpadding="15">
+			 <tr>
+			    <td><b>Удмуртская республика:</b></td>
+			 </tr>
+			 <tr>
+			    <td><p>Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, 
+				финансы, служба безопасности» в г. Глазов. Место нахождения: Удмуртская Республика, г. Глазов, ул. Пехтина, 12а.</p></td>
+			 </tr>
+			 <tr>
+			    <td><b>Кировская область:</b></td>
+			 </tr>
+			 <tr>
+			    <td><p>Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, 
+				финансы, служба безопасности» в г. Кирс. Место нахождения: Кировская область, г. Кирс, ул. Кирова, 19.</p>
+				    <p>Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, 
+					финансы, служба безопасности» в г. Уржум. Место нахождения: Кировская область, г. Уржум, ул. Советская, 5.</p>
+					<p>Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, 
+					финансы, служба безопасности» в г. Луза. Место нахождения: Кировская область, г. Луза, ул. В.Козлова, 6.</p></td>
+			 </tr>		
+			 <tr>
+			    <td><b>Пермский край:</b></td>
+			 </tr>
+			 <tr>
+			    <td><p>Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, финансы, 
+				    служба безопасности» в г. Березники. Место нахождения: Пермский край, г. Березники, ул. Ломоносова, 98.</p>
+				    <p>Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, финансы, 
+					служба безопасности» в г. Соликамск. Место нахождения: Пермский край, г. Соликамск, ул. Молодежная, 11а.</p></td>
+			 </tr>	
+			 <tr>
+			    <td><b>Свердловская область:</b></td>
+			 </tr>
+			 <tr>
+			    <td><p>Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, финансы, 
+				    служба безопасности» в г. Каменск-Уральский. Место нахождения: Свердловская область, г. Каменск-Уральский, ул. Ленина, 36.</p>
+				    <p>Представительство негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, 
+					финансы, служба безопасности» в г. Ревда. Место нахождения: Свердловская область, г. Ревда, ул. Азина, д. 83.</p>
+					<p>Представительство негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, 
+					финансы, служба безопасности» в г. Красноуфимск. Место нахождения: Свердловская область, г. Красноуфимск, ул. Докучаева, 3.</p></td>
+			 </tr>	
+				 <tr>
+			    <td><b>Республика Башкортостан:</b></td>
+			 </tr>
+			 <tr>
+			    <td><p>Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, финансы, 
+				    служба безопасности» в г. Нефтекамск. Место нахождения: Республика Башкортостан, г. Нефтекамск, ул. Нефтянников,16.</p>
+				    <p>Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, финансы, 
+					служба безопасности» в г. Стерлитамак. Место нахождения: г. Стерлитамак, ул. Пионерская, 1а.</p></td>
+			 </tr>	
+			 <tr>
+			    <td><b>Республика Татарстан:</b></td>
+			 </tr>
+			 <tr>
+			    <td><p>Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум «Высший юридический колледж: экономика, финансы, 
+				служба безопасности» в г. Нижнекамск. Место нахождения: Республика Татарстан, г. Нижнекамск, ул. Бызова, 1б.</p></td>
+			 </tr>			 
+			</table>			
+		</div>
+        	
+        	<div style="clear: both"><img src="images/spaser.gif" alt="" width="1" height="1" /></div>
+    </div>
+    <!-- content ends -->
+    <div id="cont_bot_specialnosti"></div>
+    <!-- footer begins -->
+	
+		<div id="banner">
+	    <a href="http://web2leader.ru/" target="_blank" title="Школа Бизнеса">
+	        <img src="http://veinst.ru/images/banners/sb.png" alt="Школа Бизнеса"/>
+        </a>
+		<a href="http://mveu.ru/" target="_blank" itle="МВЕУ">
+	        <img src="http://veinst.ru/images/banners/mveu.png" alt="МВЕУ"/>
+        </a>
+		<a href="http://veinst.ru/" target="_blank" title="ВЮК">
+	        <img src="http://veinst.ru/images/banners/vuk.png" alt="ВЮК"/>
+        </a>
+        
+	</div>	
+	
+    <div id="footer">
+  &copy 1999-2015. Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум<br/>«Высший юридический колледж: экономика, финансы, служба безопасности» в г. Нефтекамск
+		
+<!-- footer ends -->
+</div>
+</body>
+</html>
