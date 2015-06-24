@@ -1,0 +1,251 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Нефтекамский филиал высшего юридического колледжа</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles.css" rel="stylesheet" type="text/css" />
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+<script>
+  $(function() {
+  	$(".btn-slide").click(function() {
+    $("#panel").slideToggle("slow");
+    $(this).toggleClass("active"); return false;
+  	});
+  });
+  $(function() {
+  	$(".btn-slide2").click(function() {
+    $("#panel2").slideToggle("slow");
+    $(this).toggleClass("active"); return false;
+  	});
+  });
+</script>
+  
+</head>
+<body>
+<style type="text/css">
+            #slider1next {
+                left: 910px;
+            }
+    table {
+	    width:928px;
+        border-collapse: collapse;
+    }
+    table th,
+    table td {
+        padding: 0 5px;
+        border: 1px solid #000;
+        text-align: center;
+		font-size:14px;
+    }			
+			</style>
+<div id="main">
+
+<!-- header begins -->
+
+
+<div id="header">
+
+<div id="logo">
+
+<div id="logotip">
+
+<div class="slider">
+			
+<input type="radio" id="btn-1" name="toggle" checked>
+<input type="radio" id="btn-2" name="toggle">
+<input type="radio" id="btn-3" name="toggle">
+<input type="radio" id="btn-4" name="toggle">
+<input type="radio" id="btn-5" name="toggle">
+  <div class="slider-controls">
+    <label for="btn-1"></label>
+ 	<label for="btn-2"></label>
+    <label for="btn-3"></label>
+    <label for="btn-4"></label>
+    <label for="btn-5"></label>
+ </div>
+ <div class="slides">
+  <div class="slide">
+    <div class="slider-buttons clearfix">
+	  <label class="slider-button-left" for="btn-5"></label>
+	  <label class="slider-button-right" for="btn-2"></label>
+	</div>
+  </div>
+  <div class="slide">	
+    <div class="slider-buttons clearfix">
+      <label class="slider-button-left" for="btn-1"></label>
+	  <label class="slider-button-right" for="btn-3"></label>
+   </div>
+  </div>
+  <div class="slide">	
+    <div class="slider-buttons clearfix">
+	  <label class="slider-button-left" for="btn-2"></label>
+	  <label class="slider-button-right" for="btn-4"></label>
+	</div>
+  </div>
+  <div class="slide">
+    <div class="slider-buttons clearfix">
+      <label class="slider-button-left" for="btn-3"></label>
+	  <label class="slider-button-right" for="btn-5"></label> 			    
+	</div>
+  </div>
+  <div class="slide">	
+    <div class="slider-buttons clearfix">
+      <label class="slider-button-left" for="btn-4"></label>
+	  <label class="slider-button-right" for="btn-1"></label>
+    </div>
+  </div>
+</div
+					</div>	
+					</div>
+				</div>
+
+	    </div>
+        
+        
+   
+        
+        
+        
+        
+<div id="buttons">
+
+
+
+
+
+
+
+        <ul id="buttons">
+          <li class="first"><a href="index.html" title="">Главная</a></li>
+          <li><a href="specialnosti.html" title="">Специальности</a></li>
+          <li><a href="abiturient.html" title="">Абитуриентам</a></li>
+          <li><a href="student.html" title="">Студентам</a></li>
+		  <li><a href="kontakti.html" title="">Контакты</a></li>
+        </ul>
+  
+    </div>
+</div>
+<!-- header ends -->
+    <!-- content_specialnosti begins -->
+    <div id="cont_top_specialnosti"></div>
+    <div id="content_specialnosti">
+	    <div id="center">
+		
+          <h3>Перечень документов для поступления</h3>
+		  <div class="text">
+		   <ol>
+		    <li>1. Оригинал или ксерокопия документа, удостоверяющего личность, гражданство</li> 
+			<li>2. Оригинал или ксерокопия документа государственного образца об образовании</li>
+			<li>3. 4 фотографии (размером 3×4 см.)</li>
+			<li>4. Оригинал или ксерокопия военного билета или приписного свидетельства (для очной формы обучения)</li>
+			<li>5. Оригинал или ксерокопия свидетельства о заключении брака или свидетельства о перемене имени (в случае смены фамилии)</li>
+		   </ol>
+		   <br>
+		    
+		    <table>
+                <tr>
+				  <td>Направление</td>
+				  <td>Вступительное испытание</td>
+				  <td>База</td>
+				  <td>Форма</td>
+				  <td>Стоимость</td>
+				  <td>Квалификация</td>
+                </tr>	
+                <tr>
+				  <td rowspan="2">Дизайн</td>
+				  <td rowspan="2">Творческий экзамен - рисунок</td>
+				  <td>На базе 11 классов</td>
+				  <td>Очная - 2 года 10 месяцев*</td>
+				  <td>33 400 рублей в год</td>
+				  <td rowspan="2">Дизайнер</td>
+                </tr>	
+                <tr>
+				  <td>На базе 9 классов</td>
+				  <td>Очная - 3 года 10 месяцев*</td>
+				  <td>30 300 рублей в год</td>
+                </tr>	
+				<tr>
+				  <td colspan="6">*Предусмотрена сокращенная форма обучения для выпускников профильных учреждений среднего профессионального образования (колледжей, техникумов, 
+				                  лицеев) </td>
+				</tr>
+				
+				
+                <tr>
+				  <td rowspan="4">Банковское дело</td>
+				  <td rowspan="4">На общедоступной основе (без вступительных экзаменов)</td>
+				  <td rowspan="2">На базе 11 классов</td>
+				  <td>Очная - 1 года 10 месяцев</td>
+				  <td>23 000 рублей в год</td>
+				  <td rowspan="4">Специалист банковского дела</td>
+                </tr>	
+                <tr>
+				  <td>Заочная - 2 года 6 месяцев</td>
+				  <td>18 000 рублей в год</td>
+                </tr>	
+                <tr>
+				  <td rowspan="2">На базе 9 классов</td>
+				  <td>Очная - 2 года 10 месяцев</td>
+				  <td>23 000 рублей в год</td>
+                </tr>
+                <tr>
+				  <td>Заочная - 3 года 6 месяцев</td>
+				  <td>18 000 рублей в год</td>
+                </tr>
+
+				
+                <tr>
+				  <td rowspan="4">Правоохранительная деятельность</td>
+				  <td rowspan="4">На общедоступной основе (без вступительных экзаменов)</td>
+				  <td rowspan="2">На базе 11 классов</td>
+				  <td>Очная - 2 года 10 месяцев</td>
+				  <td>23 000 рублей в год</td>
+				  <td rowspan="4">Юрист</td>
+                </tr>	
+                <tr>
+				  <td>Заочная - 3 года 6 месяцев</td>
+				  <td>18 000 рублей в год</td>
+                </tr>
+                <tr>
+				  <td rowspan="2">На базе 9 классов</td>
+				  <td>Очная - 3 года 10 месяцев</td>
+				  <td>23 000 рублей в год</td>
+                </tr>
+                <tr>
+				  <td>Заочная - 4 года</td>
+				  <td>18 000 рублей в год</td>
+                </tr>				
+			</table>
+
+
+		   </div>
+		</div>
+        	
+        	<div style="clear: both"><img src="images/spaser.gif" alt="" width="1" height="1" /></div>
+    </div>
+    <!-- content ends -->
+    <div id="cont_bot_specialnosti"></div>
+    <!-- footer begins -->
+	
+		<div id="banner">
+	    <a href="http://web2leader.ru/" target="_blank" title="Школа Бизнеса">
+	        <img src="http://veinst.ru/images/banners/sb.png" alt="Школа Бизнеса"/>
+        </a>
+		<a href="http://mveu.ru/" target="_blank" itle="МВЕУ">
+	        <img src="http://veinst.ru/images/banners/mveu.png" alt="МВЕУ"/>
+        </a>
+		<a href="http://veinst.ru/" target="_blank" title="ВЮК">
+	        <img src="http://veinst.ru/images/banners/vuk.png" alt="ВЮК"/>
+        </a>
+        
+	</div>	
+	
+    <div id="footer">
+  &copy 1999-2015. Филиал негосударственного образовательного учреждения среднего профессионального образования Техникум<br/>«Высший юридический колледж: экономика, финансы, служба безопасности» в г. Нефтекамск
+		
+<!-- footer ends -->
+</div>
+</body>
+</html>
